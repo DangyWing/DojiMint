@@ -1,2 +1,9 @@
 cache/
 out/
+.DS_Store
+.gitignore
+remappings.txt
+foundry.toml
+.vscode/settings.json
+foundry.toml
+package.json
